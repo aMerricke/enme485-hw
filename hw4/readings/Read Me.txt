@@ -1,0 +1,5 @@
+References and demo codes for SOM
+
+Public SOM toolbox:
+
+http://research.ics.aalto.fi/software/somtoolbox/
